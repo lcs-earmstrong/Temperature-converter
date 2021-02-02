@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B88706C925C9E754004001F5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88706C825C9E754004001F5 /* main.swift */; };
 		B88706D125C9EC7C004001F5 /* extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88706D025C9EC7C004001F5 /* extension.swift */; };
+		B88706D425C9ED1F004001F5 /* temperature converter using extension  .swift in Sources */ = {isa = PBXBuildFile; fileRef = B88706D325C9ED1F004001F5 /* temperature converter using extension  .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		B88706C525C9E754004001F5 /* Temperature converter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Temperature converter"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B88706C825C9E754004001F5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B88706D025C9EC7C004001F5 /* extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension.swift; sourceTree = "<group>"; };
+		B88706D325C9ED1F004001F5 /* temperature converter using extension  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "temperature converter using extension  .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				B88706C825C9E754004001F5 /* main.swift */,
+				B88706D325C9ED1F004001F5 /* temperature converter using extension  .swift */,
 			);
 			path = "Temperature converter";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B88706C925C9E754004001F5 /* main.swift in Sources */,
+				B88706D425C9ED1F004001F5 /* temperature converter using extension  .swift in Sources */,
 				B88706D125C9EC7C004001F5 /* extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
